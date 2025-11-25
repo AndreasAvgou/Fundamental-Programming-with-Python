@@ -57,3 +57,14 @@ Ensure you have Python installed (version 3.x is recommended).
 
 ```bash
 python exercise_1.py
+```
+## 📝 Learning Outcomes
+Through these exercises, the following concepts are demonstrated:
+
+* Standard Input/Output (input(), print, f-strings).
+* Control Flow (if, elif, else).
+* Iterative structures (for loops, while loops).
+* Data Structures (Lists, Dictionaries).
+* Function definition and return values.
+* Input validation and error handling.
+

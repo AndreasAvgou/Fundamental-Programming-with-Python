@@ -52,13 +52,19 @@ The exercises are divided into 6 distinct scripts, each focusing on specific pro
 Ensure you have Python installed (version 3.x is recommended).
 
 1.  Clone the repository.
+```bash
+git clone [https://github.com/AndreasAvgou/Fundamental-Programming-with-Python.git](https://github.com/AndreasAvgou/Fundamental-Programming-with-Python.git)
+```
 2.  Navigate to the directory.
+```bash
+cd Fundamental-Programming-with-Python
+```
 3.  Run any exercise using the command line:
 
 ```bash
-python exercise_1.py
+python3 exercise_1.py
 ```
-## 📝 Learning Outcomes
+## 📝 Key Learning Outcomes
 Through these exercises, the following concepts are demonstrated:
 
 * Standard Input/Output (input(), print, f-strings).

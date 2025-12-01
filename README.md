@@ -46,6 +46,13 @@ The exercises are divided into 6 distinct scripts, each focusing on specific pro
     * `find_max(numbers)`: Returns the largest number.
     * `reverse_list(numbers)`: Returns the list in reverse order.
     * `count_even(numbers)`: Counts how many numbers are even.
+      
+### 7. Shopping List Manager (exercise_7.py)
+* **Goal:**  List manipulation, modular functions, and user interaction.
+* **Functionality:** A menu-driven program to manage a weekly shopping list.
+     * Uses a list data structure to store products.
+     * Includes specific functions to `add`, `remove`, `search`, and `show` items.
+     * Runs an interactive loop (Menu) until the user selects "Exit".
 
 ## 🚀 How to Run
 

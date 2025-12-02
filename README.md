@@ -4,7 +4,7 @@ This repository contains a collection of Python scripts developed. The exercises
 
 ## 📂 Project Structure
 
-The exercises are divided into 6 distinct scripts, each focusing on specific programming topics:
+The exercises are divided into 7 distinct scripts, each focusing on specific programming topics:
 
 ### 1. Basic Operations (`exercise_1.py`)
 * **Goal:** Introduction to variables and arithmetic operators.

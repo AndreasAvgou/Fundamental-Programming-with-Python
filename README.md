@@ -54,6 +54,14 @@ The exercises are divided into 7 distinct scripts, each focusing on specific pro
      * Includes specific functions to `add`, `remove`, `search`, and `show` items.
      * Runs an interactive loop (Menu) until the user selects "Exit".
 
+### 8. Student Grades Dictionary (`exercise_8.py`)
+* **Goal:** Working with Dictionaries (Key-Value pairs) and data retrieval.
+* **Functionality:** Manages a database of student grades.
+     * Stores students and their grades in a dictionary `{'Name': [grades]}`.
+     * Calculates and displays the average grade for each student.
+     * Identifies the top-performing student.
+     * Allows searching for a student's record by name.
+
 ## 🚀 How to Run
 
 Ensure you have Python installed (version 3.x is recommended).

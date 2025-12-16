@@ -61,6 +61,13 @@ The exercises are divided into 8 distinct scripts, each focusing on specific pro
      * Calculates and displays the average grade for each student.
      * Identifies the top-performing student.
      * Allows searching for a student's record by name.
+ 
+### 9. Recursive Meal Planner (`exercise_9.py`)
+* **Goal:** Introduction to Recursion and Optimization problems.
+* **Functionality:** Solves a resource allocation problem (similar to the Knapsack problem).
+     * Accepts a list of dishes with their preparation times.
+     * Accepts a total available time limit.
+     * Uses a **recursive function** to determine the *maximum number of dishes* that can be prepared within the time limit.
 
 ## 🚀 How to Run
 
@@ -87,5 +94,6 @@ Through these exercises, the following concepts are demonstrated:
 * Iterative structures (for loops, while loops).
 * Data Structures (Lists, Dictionaries).
 * Function definition and return values.
+* Recursion and algorithmic thinking.
 * Input validation and error handling.
 

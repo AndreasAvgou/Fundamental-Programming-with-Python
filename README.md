@@ -69,6 +69,12 @@ The exercises are divided into 9 distinct scripts, each focusing on specific pro
      * Accepts a total available time limit.
      * Uses a **recursive function** to determine the *maximum number of dishes* that can be prepared within the time limit.
 
+### 10. Christmas Tree Generator (`bonus_exercise.py`)
+* **Goal:** String manipulation, Loop logic, and Formatting.
+* **Functionality:** Prints a symmetric Christmas tree pattern based on user-defined height.
+     * Calculates dynamic width for centering text.
+     * Implements specific pattern rules: Top star (`+`), Ornaments (`0`) on edges, and a Trunk (`|`) at the base.
+
 ## 🚀 How to Run
 
 Ensure you have Python installed (version 3.x is recommended).
@@ -96,4 +102,5 @@ Through these exercises, the following concepts are demonstrated:
 * Function definition and return values.
 * Recursion and algorithmic thinking.
 * Input validation and error handling.
+* String formatting and alignment.
 

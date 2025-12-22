@@ -69,7 +69,7 @@ The exercises are divided into 10 distinct scripts, each focusing on specific pr
      * Accepts a total available time limit.
      * Uses a **recursive function** to determine the *maximum number of dishes* that can be prepared within the time limit.
 
-### 10. Christmas Tree Generator (`bonus_exercise.py`)
+### 10. Christmas Tree Generator (`exercise_10.py`)
 * **Goal:** String manipulation, Loop logic, and Formatting.
 * **Functionality:** Prints a symmetric Christmas tree pattern based on user-defined height.
      * Calculates dynamic width for centering text.

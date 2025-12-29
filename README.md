@@ -2,7 +2,7 @@
 
 This repository contains a collection of Python scripts developed. The projects progress are designed to cover fundamental programming concepts ranging from basic I/O to functions and list manipulation.
 
-## 📂 Project Structure
+## Project Structure
 
 The exercises are divided into 10 distinct scripts, each focusing on specific programming topics:
 

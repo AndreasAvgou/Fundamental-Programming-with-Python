@@ -75,7 +75,7 @@ The exercises are divided into 10 distinct scripts, each focusing on specific pr
      * Calculates dynamic width for centering text.
      * Implements specific pattern rules: Top star (`+`), Ornaments (`0`) on edges, and a Trunk (`|`) at the base.
 
-## 🚀 How to Run
+## How to Run
 
 Ensure you have Python installed (version 3.x is recommended).
 

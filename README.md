@@ -1,4 +1,11 @@
-# Fundamental Programming with Python 
+<div align="center">
+<img width="860" height="480" alt="python development" src="https://github.com/user-attachments/assets/85aca145-fae5-4deb-98cb-9769a656b0db" />
+
+ # Fundamental Programming with Python 
+  
+</div>
+
+
 
 This repository contains a collection of Python scripts developed. The projects progress are designed to cover fundamental programming concepts ranging from basic I/O to functions and list manipulation.
 
